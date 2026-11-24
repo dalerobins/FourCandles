@@ -9,5 +9,3 @@ Autonomous inverse twinkle LEDs using ultra low power MCUs and analogue DC dimmi
 ### [Mastermind](./Mastermind/README.md)
 Intelligent addressable lighting, travelling comets and integrated tree toppers.
 
-### [ShortSightedOptician](./ShortSightedOptician/README.md)
-Optical measurements, flicker analysis and electrical characterisation.
